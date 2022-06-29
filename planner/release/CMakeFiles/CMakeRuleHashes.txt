@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+740ba97c60feac5f82a879e9534ee33b VALfiles/parsing/lex.yy.cc
+afbd9ba62aa286cfdcf84a6af12f8f5b VALfiles/parsing/pddl+.cpp

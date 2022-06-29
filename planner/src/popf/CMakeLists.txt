@@ -10,8 +10,6 @@ find_package(CoinUtils)
 find_package(Cbc)
 find_package(Cgl)
 find_package(OSI)
-find_package(Concert)
-find_package(Cplex)
 
 IF("${CMAKE_SYSTEM_NAME}" STREQUAL "Darwin")
 set(CMAKE_CXX_FLAGS "-Wall ${CMAKE_CXX_FLAGS} -std=c++11 -stdlib=libc++ -DIL_STD -I")
